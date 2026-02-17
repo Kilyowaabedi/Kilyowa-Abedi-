@@ -1,15 +1,31 @@
-# Social Media Post Samples
+# Kilyowa Abedi – Marketing Assistant Portfolio
 
-**Post 1 – Retail Clothes & Shoes**
-🌟 New Arrivals Alert! 🌟
-Step into style with our latest collection of shoes and trendy outfits! 👟👗
-✨ Special Offer: Buy 2 items and get 10% off! ✨
-🛒 Visit our shop today or order online!
-#Fashion #TrendyStyle #ShoesAndClothes #ShopNow
+Welcome! I am **Kilyowa Abedi**, a Marketing Assistant with experience in **retail sales, online customer service, and freelance marketing projects**.
 
-**Post 2 – Freelance Marketing**
-🚀 Boost Your Business Online! 🚀
-Looking to grow your brand and connect with more customers?
-I provide social media content creation and marketing support.
-📩 DM me today for a free consultation!
-#MarketingAssistant #SocialMediaMarketing #Freelancer
+---
+
+## About Me
+- Currently taking a **Bachelor’s degree in Computer Science**  
+- Recently completed **Senior Six (UACE)**  
+- Skills:  
+  - Customer service & engagement  
+  - Social media content creation  
+  - Marketing research & email campaigns  
+  - Product descriptions & copywriting  
+
+---
+
+## Work Samples
+Click the links below to view my marketing work:
+
+- [Social Media Posts](Social-Media-Posts.md)  
+- [Email Marketing Templates](Email-Templates.md)  
+- [Product Descriptions & Copywriting Samples](Product-Description.md)
+## Contact
+- **Email:** kilyowaabedi03@gmail.com  
+- **LinkedIn:** [Kilyowa Abedi](https://www.linkedin.com/in/kilyowa-abedi-b25a783a1)  
+
+---
+
+## Career Goal
+To build a professional marketing portfolio, showcase my creativity, and gain experience supporting marketing campaigns that drive results.
