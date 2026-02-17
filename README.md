@@ -3,6 +3,7 @@ marketing assistant Port folio
 Welcome! I am Kilyowa Abedi, a Marketing Assistant with experience in retail sales, online customer service, and freelance marketing projects.
 
 ## About Me
+- on taking bachelor's degree in computer science 
 - Recently completed Senior Six
 - Skills: Customer service, social media content, marketing research, and email campaigns
 
