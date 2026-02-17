@@ -1,2 +1,16 @@
-# Kilyowa-Abedi-
-My marketing assistant Port folio
+# Kilyowa Abedi – Marketing Portfolio
+marketing assistant Port folio 
+Welcome! I am Kilyowa Abedi, a Marketing Assistant with experience in retail sales, online customer service, and freelance marketing projects.
+
+## About Me
+- Recently completed Senior Six
+- Skills: Customer service, social media content, marketing research, and email campaigns
+
+## Work Samples
+- Social Media Posts
+- Email Marketing Templates
+- Product Descriptions
+
+## Contact
+- Email: kilyowaabedi03@gmail.com
+- LinkedIn: https://www.linkedin.com/in/kilyowa-abedi-b25a783a1
